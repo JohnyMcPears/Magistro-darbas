@@ -1,2 +1,2 @@
 # Magistro-darbas
-J.Launikonio Magistrinio darbo programos
+J.Launikonio Magistrinio darbo programos.
