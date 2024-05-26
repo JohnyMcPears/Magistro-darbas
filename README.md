@@ -16,4 +16,7 @@ WAV-creator - tai programa, kuri suskaido originalų įrašą pagal išvestus se
 ### Segmentavimo tikslumo įvertinimas:
 DER - tai programa, kuri įvertina atliktų segmentavimo algoritmo tikslumą, pasitelkus diarizacijos klaidų dažnį. Programai pateikiami atskaitos duomenis ir segmentavimo algoritmo rezultatai. Išveda tekstinį failą su įvertinimais.
 
-Atskaitos duomenis buvo sukurti su praat programa, dėl to šie duomenys buvo textgrid (trumpuoju) formatu. Taigi siūloma atsaitos duomenis turėti textgrid trumpuoju formatu. 
+##  Atskaitos duomenys:
+Atskaitos duomenis buvo sukurti su praat programa, dėl to šie duomenys buvo textgrid (trumpuoju) formatu. Taigi siūloma atsaitos duomenis turėti textgrid trumpuoju formatu. Trumpajo formato pavyzdis pateiktas Textgrid_short faile, įprasto textgrid formato pavyzdis pateiktas Textgrid_base faile.
+
+Praat programos nuoroda: https://www.fon.hum.uva.nl/praat/
